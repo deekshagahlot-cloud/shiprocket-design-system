@@ -1,0 +1,61 @@
+{
+  "typography": {
+    "font-family": "SF Pro Display",
+    "scale": {
+      "heading-xxxl": {
+        "font-size":   "32px",
+        "line-height": "40px",
+        "font-weight": "600",
+        "usage":       "Heading XXXL — largest display heading"
+      },
+      "heading-xxl": {
+        "font-size":   "28px",
+        "line-height": "32px",
+        "font-weight": "700/600",
+        "usage":       "Heading XXL"
+      },
+      "heading-xl": {
+        "font-size":   "24px",
+        "line-height": "32px",
+        "font-weight": "700/600",
+        "usage":       "Heading XL — page titles"
+      },
+      "heading-l": {
+        "font-size":   "20px",
+        "line-height": "28px",
+        "font-weight": "700/600",
+        "usage":       "Heading L — section titles"
+      },
+      "heading-m": {
+        "font-size":   "18px",
+        "line-height": "28px",
+        "font-weight": "400/600/700",
+        "usage":       "Heading M — card titles, modal headers"
+      },
+      "heading-s": {
+        "font-size":   "16px",
+        "line-height": "24px",
+        "font-weight": "400/600/700",
+        "usage":       "Heading S — sub-section labels"
+      },
+      "body": {
+        "font-size":   "14px",
+        "line-height": "20px",
+        "font-weight": "400/500/600/700",
+        "usage":       "Body / Heading — default body text, table content"
+      },
+      "caption": {
+        "font-size":   "12px",
+        "line-height": "16px",
+        "font-weight": "400/500/600/700",
+        "usage":       "Caption / Body — helper text, labels, secondary info"
+      },
+      "footnote": {
+        "font-size":   "10px",
+        "line-height": "14px",
+        "font-weight": "500/600",
+        "usage":       "Footnote — timestamps, fine print, metadata"
+      }
+    }
+  }
+}

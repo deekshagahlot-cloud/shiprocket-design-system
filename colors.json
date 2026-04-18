@@ -1,0 +1,68 @@
+{
+  "color": {
+    "primary": {
+      "600": "#5333F2",
+      "500": "#7458E7",
+      "400": "#9278FC",
+      "100": "#E5E3FF",
+      "50":  "#F3F1FE",
+      "30":  "#FAF9FF"
+    },
+    "neutral": {
+      "900": "#191919",
+      "800": "#4C4C4C",
+      "700": "#7F7F7F",
+      "600": "#999999",
+      "500": "#D3D3D3",
+      "400": "#E1E1E1",
+      "300": "#EAEAEA",
+      "200": "#F4F4F4",
+      "100": "#F8F8F8",
+      "50":  "#FAFAFA",
+      "30":  "#FAFBFC",
+      "00":  "#FFFFFF"
+    },
+    "success": {
+      "500": "#008E27",
+      "50":  "#EEFFF4"
+    },
+    "error": {
+      "500": "#FF2222",
+      "300": "#FFACAC",
+      "50":  "#FFF2F2"
+    },
+    "warning": {
+      "500": "#AC6A00",
+      "300": "#E9950E",
+      "50":  "#FFF4E4"
+    },
+    "critical": {
+      "500": "#B58E00",
+      "300": "#FFC107",
+      "50":  "#FFFCEB"
+    },
+    "info": {
+      "500": "#3B87FF",
+      "50":  "#F4F8FF",
+      "30":  "#F4F9FD"
+    },
+    "input": {
+      "prefix-bg": "#E8F0FF",
+      "description": "Used for prefix/suffix background in input fields"
+    },
+    "accent": {
+      "teal-500":        "#328592",
+      "teal-alt-500":    "#12B49A",
+      "teal-50":         "#E3FEFD",
+      "mint-100":        "#E7F9F5",
+      "orange-deep-500": "#E28925",
+      "orange-400":      "#FF9800",
+      "orange-100":      "#FFE8C8",
+      "magenta-500":     "#BA03C9",
+      "magenta-100":     "#FDEEFF",
+      "blue-500":        "#199BE0",
+      "blue-50":         "#EBF9FC",
+      "ink":             "#060B4D"
+    }
+  }
+}

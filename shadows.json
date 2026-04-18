@@ -1,0 +1,29 @@
+{
+  "shadow": {
+    "xs": {
+      "value": "0 0 4px rgba(0,0,0,0.06)",
+      "css": "box-shadow: 0 0 4px rgba(0,0,0,0.06)",
+      "description": "Cards on white bg · opacity 6%",
+      "used-for": "Overview/State Card, Setting Cards"
+    },
+    "sm": {
+      "value": "0 0 6px rgba(0,0,0,0.08)",
+      "css": "box-shadow: 0 0 6px rgba(0,0,0,0.08)",
+      "description": "Subtle depth · opacity 8%",
+      "used-for": "Art Board Panel"
+    },
+    "md": {
+      "value": "0 0 16px rgba(0,0,0,0.08)",
+      "css": "box-shadow: 0 0 16px rgba(0,0,0,0.08)",
+      "description": "Floating element · opacity 8%",
+      "used-for": "Floating widgets, Tooltips, Dropdowns, Marketing Container cards"
+    },
+    "card-brand": {
+      "value": "0 0 16px rgba(232,223,255,0.60)",
+      "css": "box-shadow: 0 0 16px rgba(232,223,255,0.60)",
+      "hex": "#E8DFFF",
+      "description": "Brand accent glow · opacity 60%",
+      "used-for": "Hover Interactions"
+    }
+  }
+}

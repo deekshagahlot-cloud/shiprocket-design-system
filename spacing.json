@@ -1,0 +1,16 @@
+{
+  "spacing": {
+    "space-1":   { "value": "4px",  "usage": "Icon padding, tight gaps" },
+    "space-1.5": { "value": "6px",  "usage": "Button small vertical padding" },
+    "space-2":   { "value": "8px",  "usage": "Inner component padding, small gaps" },
+    "space-2.5": { "value": "10px", "usage": "Input field vertical padding" },
+    "space-3":   { "value": "12px", "usage": "Component internal spacing" },
+    "space-3.5": { "value": "14px", "usage": "Tooltip horizontal padding" },
+    "space-4":   { "value": "16px", "usage": "Default padding, card inner spacing" },
+    "space-5":   { "value": "20px", "usage": "Medium gaps between elements" },
+    "space-6":   { "value": "24px", "usage": "Section padding, large component gaps" },
+    "space-7":   { "value": "28px", "usage": "Between grouped sections" },
+    "space-8":   { "value": "32px", "usage": "Large section spacing" },
+    "space-9":   { "value": "36px", "usage": "Page-level spacing, hero sections" }
+  }
+}
